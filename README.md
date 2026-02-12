@@ -44,5 +44,5 @@ Explicación general del proyecto:
 
 - /arduino       → Código fuente del Arduino Mega
 - /pcb           → Archivos de PCB (Eagle / KiCad)
-- /3d            → Modelos STL para impresión de carcasa
+- /Diseño 3D     → Modelos STL para impresión de carcasa
 - /docs          → Diagramas, esquemas eléctricos e imágenes del montaje
