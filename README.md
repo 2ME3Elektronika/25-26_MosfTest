@@ -29,14 +29,17 @@ Explicación general del proyecto:
 - Fuente de alimentación 12V
 - Pantalla LCD
 
-
 ### 🖥️ Firmware
 
 - Arduino IDE
 - Lenguaje: C/C++ 
 - Librerías utilizadas: Wire.h y LiquidCrystal_I2C.h
 
+### 🏾 Diseño PCB
 
+- PCB diseñadas en "Proteus"
+- Capas de PCB "2 o 4"
+  
 ### 🛠️ Diseño Mecánico
 
 - Piezas diseñadas en "Sketchup 2017"
