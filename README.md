@@ -2,8 +2,11 @@
 
 Identificador y comprobación de estados de MOSFET con visualización en LCD 
 
-<img width="350" height="270" alt="mosfet" src="https://github.com/user-attachments/assets/9721afc6-2843-4b83-a83f-fb8f51a54d6b" />
+![Python](https://img.shields.io/badge/ArduinoIDE-2.3.7-blue)
 
+![Platform](https://img.shields.io/badge/Dispositivo-Arduino%20MEGA%202560%20Pro-green)
+
+<img width="350" height="270" alt="mosfet" src="https://github.com/user-attachments/assets/9721afc6-2843-4b83-a83f-fb8f51a54d6b" />
 
 
 ## 📖 Descripción
