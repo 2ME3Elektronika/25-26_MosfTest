@@ -48,7 +48,7 @@ Explicación general del proyecto:
 
 ## 📂 Estructura del Repositorio
 
-- /arduino       → Código fuente del Arduino Mega
-- /pcb           → Archivos de PCB (Eagle / KiCad)
-- /Diseño 3D     → Modelos STL para impresión de carcasa
-- /docs          → Diagramas, esquemas eléctricos e imágenes del montaje
+- /ARDUINO         → Código fuente en Arduino IDE
+- /PROTEUS         → Archivos de PCB (Proteus)
+- /DISEÑO 3D       → Modelos STL para impresión de carcasa
+- /Documentación   → Diagramas, esquemas eléctricos e imágenes del montaje
