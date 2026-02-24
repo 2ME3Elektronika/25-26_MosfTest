@@ -9,7 +9,7 @@ Código específico escrito para cada parte del proceso de la comprobación del 
 
 - Código general de funcionamiento.  
 - Páginas con códigos específicos para cada función necesitada.
-- Codigos diferenciados para la comprobacio de diferentes partes del codigo
+- Codigos diferenciados para la comprobacion de diferentes partes del codigo
 
 
 ## 🛠️ Herramientas utilizadas
