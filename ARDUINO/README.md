@@ -8,7 +8,8 @@ Código utilizado para la comprobación del estado de los mosfets.
 Código específico escrito para cada parte del proceso de la comprobación del estado de los mosfets.
 
 - Código general de funcionamiento.  
-- Páginas con códigos espacíficos para cada función necesitada.
+- Páginas con códigos específicos para cada función necesitada.
+- Codigos diferenciados para la comprobacio de diferentes partes del codigo
 
 
 ## 🛠️ Herramientas utilizadas
